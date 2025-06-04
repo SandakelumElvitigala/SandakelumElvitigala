@@ -20,8 +20,12 @@ jobs:
           outputs: |
             ./output/github-contribution-grid-snake.svg
 
-      - name: Push the animation
+      - name: Commit and Push
         uses: EndBug/add-and-commit@v9
         with:
+          author_name: github-actions
+          author_email: github-actions@github.com
           message: "🐍 Update contribution snake"
           add: "output/github-contribution-grid-snake.svg"
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
