@@ -34,15 +34,6 @@
 
 ---
 
-## 🔥 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SandakelumElvitigala/SandakelumElvitigala/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-
----
-
 ## 💼 Projects
 
 | Project | Description |
@@ -63,8 +54,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SandakelumElvitigala/SandakelumElvitigala/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+## 🐍 Contribution Graph
+<div align="center">
+  <img src="https://github.com/SandakelumElvitigala/SandakelumElvitigala/blob/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <h3>✍ Random Dev Quote</h3>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</div>
 
 
